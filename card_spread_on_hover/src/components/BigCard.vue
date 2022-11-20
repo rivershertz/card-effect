@@ -1,6 +1,6 @@
 <template>
   <div
-    class="h-60 w-44 absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] rounded-2xl"
+    class="h-60 w-44 absolute rounded-2xl bg-cover bg-no-repeat"
     :class="styles"
   ></div>
 </template>
